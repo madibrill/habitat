@@ -670,5 +670,11 @@ footer span.copyright {
         width: 100%;
         overflow-wrap: break-word;
     }
+    .family-image{
+        width: 80%;
+    }
+    #portfolio .portfolio-item .portfolio-link .portfolio-hover{
+        width: 80%;
+    }
 }
 
