@@ -667,7 +667,7 @@ footer span.copyright {
 @media screen and (max-width: 725px){
     .intro-heading{
         font-size: 25px !important;
-        width: 100%;
+        width: 80%;
         overflow-wrap: break-word;
     }
     .family-image{
@@ -676,6 +676,7 @@ footer span.copyright {
     #portfolio .portfolio-item .portfolio-link .portfolio-hover{
         width: 80%;
         padding: 0;
+        align-items: center;
     }
 }
 
