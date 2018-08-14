@@ -666,7 +666,7 @@ footer span.copyright {
 
 @media screen and (max-width: 725px){
     body{
-        overflow: hidden;
+        overflow: hidden !important;
     }
     .intro-heading{
         font-size: 25px !important;
@@ -682,7 +682,7 @@ footer span.copyright {
         align-items: center !important;
     }
     #leftcorner{
-        font-size: 20px;
+        font-size: 20px !important;
     }
 }
 
