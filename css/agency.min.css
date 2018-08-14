@@ -667,6 +667,8 @@ footer span.copyright {
 @media screen and (max-width: 725px){
     .intro-heading{
         font-size: 25px !important;
+        width: 100%;
+        overflow-wrap: break-word;
     }
 }
 
