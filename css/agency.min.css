@@ -666,13 +666,13 @@ footer span.copyright {
 
 @media screen and (max-width: 725px){
     body{
-        /* overflow-x: hidden !important; */
+        overflow-x: hidden !important;
     }
     .intro-heading{
         font-size: 25px !important;
         width: 80% !important;
         text-align: center !important;
-        margin-left: 3% !important;
+        margin-left: 6% !important;
     }
     .family-image{
         width: 80% !important;
@@ -680,7 +680,7 @@ footer span.copyright {
     }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover{
         width: 80% !important;
-        padding: 0 !important;
+        padding-left: 6% !important;
         align-content: center !important;
     }
     #leftcorner{
