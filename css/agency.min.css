@@ -667,16 +667,16 @@ footer span.copyright {
 @media screen and (max-width: 725px){
     .intro-heading{
         font-size: 25px !important;
-        width: 80%;
-        overflow-wrap: break-word;
+        width: 80% !important;
+        overflow-wrap: break-word !important;
     }
     .family-image{
-        width: 80%;
+        width: 80% !important;
     }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover{
-        width: 80%;
-        padding: 0;
-        align-items: center;
+        width: 80% !important;
+        padding: 0 !important;
+        align-items: center !important;
     }
 }
 
