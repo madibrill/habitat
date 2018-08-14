@@ -675,6 +675,7 @@ footer span.copyright {
     }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover{
         width: 80%;
+        padding: 0;
     }
 }
 
