@@ -643,7 +643,7 @@ footer span.copyright {
   width:135%;
    position: relative;
    text-align: center;
-   right: 20%;
+   right: 18%;
 }
 
 #footerlinks {
@@ -659,9 +659,18 @@ footer span.copyright {
   .navbar a {
     color: white !important;
   }
+  .intro-heading{
+      font-size: 50px !important;
+  }
 }
 
-.row.buttn{
+@media screen and (max-width: 725px){
+    .intro-heading{
+        font-size: 25px !important;
+    }
+}
+
+/* .row.buttn{
     position: relative;
     left: 44%;
-}
+} */
