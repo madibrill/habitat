@@ -671,15 +671,17 @@ footer span.copyright {
     .intro-heading{
         font-size: 25px !important;
         width: 80% !important;
-        overflow-wrap: break-word !important;
+        text-align: center !important;
+        margin-left: 3% !important;
     }
     .family-image{
         width: 80% !important;
+        align-content: center;
     }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover{
         width: 80% !important;
         padding: 0 !important;
-        align-items: center !important;
+        align-content: center !important;
     }
     #leftcorner{
         font-size: 20px !important;
